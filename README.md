@@ -1,1 +1,1 @@
-# MAD9013 Lab Assignment 3
+# MAD9013 Lab Colours Scheme
